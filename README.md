@@ -23,7 +23,7 @@ This deep learning-based project trains a simple GAN model on the MNIST dataset.
 ## 🛠️ Technologies Used
 
 - Python 3.x
-- TensorFlow / Keras
+- Pytorch with Cuda Support
 - Tkinter (GUI)
 - NumPy
 - Matplotlib
