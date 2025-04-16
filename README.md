@@ -16,7 +16,7 @@ This deep learning-based project trains a simple GAN model on the MNIST dataset.
 <img src="Project root/Image Generator UI.png" width="300"/>
 
 ### 🧾 Output Generated Digit  
-<img src="Project root/Output Generated Image.png" width="100"/>
+<img src="Project root/Output Genearated Image.png" width="100"/>
 
 ---
 
