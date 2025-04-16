@@ -1,0 +1,5 @@
+```txt
+torch
+numpy
+matplotlib
+pillow
